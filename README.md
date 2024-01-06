@@ -10,4 +10,4 @@ This project proposed to be the basic step to enter Reinforcement Learning.
 
 1. Install Conda Environment 
 2. Install Depedency by | pip install -r requirements.txt |
-3. Train and Run the Snake | python agents.py | 
+3. Train and Run the Snake | python agent.py | 
